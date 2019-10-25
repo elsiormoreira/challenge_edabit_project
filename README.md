@@ -22,8 +22,8 @@ project. You can reach me via email at
 
 
 # Project Status
-Solve challenge number 90 - very easy level
-Solve challenge number 02 - easy level
+- Solve challenge number 90 - very easy level
+- Solve challenge number 02 - easy level
 
 
 # Reference
