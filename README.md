@@ -28,3 +28,4 @@ project. You can reach me via email at
 
 # Reference
 - https://edabit.com/
+- [w3Schools.com](https://www.w3schools.com/python/default.asp)
